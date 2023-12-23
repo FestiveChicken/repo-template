@@ -31,3 +31,19 @@ Template for future projects
 # Setting up webpack
 1. npm install webpack
 2. npm run build
+
+# Setting up Prettier
+1. npm install --save-dev --save-exact prettier
+2. npx prettier . --write
+3. To check format use: npx prettier . --check
+
+# Setting up eslint-prettier
+1. npm install --save-dev eslint-config-prettier
+2. In the eslintrc.js file add the following
+   {
+  "extends": [
+    "some-other-config-you-use",
+    "prettier"
+  ]
+}
+3. 
