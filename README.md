@@ -27,3 +27,7 @@ Template for future projects
   YAML
 ❯ JSON
 10. ? Would you like to install them now with npm? › No / Yes (Yes)
+
+# Setting up webpack
+1. npm install webpack
+2. npm run build
