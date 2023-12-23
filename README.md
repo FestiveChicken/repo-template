@@ -46,4 +46,3 @@ Template for future projects
     "prettier"
   ]
 }
-3. 
